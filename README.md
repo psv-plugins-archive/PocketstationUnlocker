@@ -1,3 +1,3 @@
-# PocketstationUnlocker
+- PocketStationUnlocker - 
 
-Forces pocketstation support in all PS1 games.
+Forces PocketStation support in all PS1 games.
